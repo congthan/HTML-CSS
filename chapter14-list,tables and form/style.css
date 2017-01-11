@@ -1,0 +1,9 @@
+ol{
+	list-style-type:  lower-roman;
+}
+ul{
+	list-style-image: url("./image/images.jpg");
+}
+li{
+	margin: 0px 0px 0px 0px
+}
