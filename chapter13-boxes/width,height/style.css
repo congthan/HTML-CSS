@@ -1,0 +1,10 @@
+div.box {
+	height: 300px;
+	width: 300px;
+	background-color: #009900;
+}
+p {
+	height: 75%;
+	width: 75%;
+	background-color: #FF99CC;
+}
